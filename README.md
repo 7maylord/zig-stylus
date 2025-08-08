@@ -12,7 +12,7 @@ Zig Stylus is an Arbitrum Stylus SDK for the Zig programming language, designed 
     cargo install cargo-stylus
     ```
 
-2. Install Foundary Cast for calling deployed contracts:
+2. Install Foundry Cast for calling deployed contracts:
 
     ```bash
     curl -L https://foundry.paradigm.xyz | bash
